@@ -1,0 +1,10 @@
+Optimization,Approach,AvgUserTime_s
+-O0,Baseline,4.81
+-O0,Naive,83.20
+-O0,Refined,7.24
+-O1,Baseline,2.30
+-O1,Naive,2.55
+-O1,Refined,2.43
+-O2,Baseline,2.29
+-O2,Naive,2.40
+-O2,Refined,2.37
